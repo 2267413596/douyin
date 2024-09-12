@@ -13,6 +13,7 @@
         <module>douyin-mapper</module>
         <module>douyin-model</module>
         <module>douyin-service</module>
+<!--        <module>mybatis-generator-for-imooc</module>-->
     </modules>
 
     <packaging>pom</packaging>
